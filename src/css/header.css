@@ -1,0 +1,41 @@
+header {
+background-color: black;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  display: flex;
+  margin: 0;
+  position: fixed;
+  top: 0px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 100%;
+}
+.searchinput {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid hsl(0, 0%, 80%);
+  border-radius: 10px;
+  font-size: 16px;
+  font-family: bold;
+  box-sizing: border-box;
+  margin: auto;
+  transition: border-color 0.3s ease;
+}
+
+.topbarright {
+  display: inline-flex;
+  align-items: center;
+  justify-content: left;
+  width: 100%;
+}
+.topbarcenter {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.topbarleft {
+  display: inline-flex;
+  align-items: center;
+  justify-content: right;
+  width: 100%;
+}

@@ -1,0 +1,23 @@
+.iniciosesion {
+  width: 100%;
+  margin: 50px;
+ align-items: center;
+  text-align:  center;
+  justify-content: center;
+}
+.moneda {
+  width: 100%;
+  margin: 50px;
+  padding-top: 100px;
+  
+}
+.maincontainer {
+  width: 100%;
+  height: 500px;
+  background-image: url("../img/cuartogamer2.jpg");
+  background-position: 0%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}

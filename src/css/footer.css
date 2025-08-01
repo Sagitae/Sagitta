@@ -1,0 +1,23 @@
+footer {
+  font-size: 26;
+  font-weight: inherit;
+  padding: 20px;
+  position: static;
+flex-direction: column;
+  bottom: 0;
+   
+}
+.containerfooter {
+  display: flex;
+}
+
+.Sagitta {
+  padding: 10px;
+}
+.Portales {
+  padding: 10px;
+}
+
+.redessociales {
+  padding: 10px;
+}

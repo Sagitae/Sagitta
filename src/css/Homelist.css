@@ -1,0 +1,9 @@
+.list{
+    width: 20%;
+    height: 100%;
+    border-radius: 50px;
+    display: flex;
+padding-top: 0px;
+padding-left: 50px;
+justify-items: left;
+}

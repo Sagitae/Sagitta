@@ -1,0 +1,27 @@
+.Cartas {
+  width: auto;
+  height: auto;
+
+  padding: 50px;
+  border-radius: 30px solid #bbff00;
+
+  box-shadow: 0 4px 8px hsla(0, 86%, 6%, 0.781);
+}
+.Cartelera {
+  width: auto;
+  height: 250px;
+}
+
+.juegos {
+  display: flex;
+}
+.onegame {
+  padding: 100px;
+}
+
+.Valoraciones {
+  width: auto;
+  height: 250px;
+  padding: 20px;
+  margin-bottom: 100px;
+}

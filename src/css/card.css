@@ -1,0 +1,11 @@
+
+.CardLanding{
+    background-color: #ffffff;
+    color: #f8f3f3;
+    font-family: bold; 
+    border-radius: 10px solid #fafafa;
+    padding: 70px;
+    box-shadow: 0 4px 8px #08e2ff;
+    transition: transform 0.2s;
+    margin: 30px;
+}
