@@ -1,4 +1,5 @@
-import '../css/input.css'
+import '../css/input.css';
+
 export function Login() {
   return (
     <div align="center">
@@ -13,3 +14,5 @@ export function Login() {
     </div>
   );
 }
+
+

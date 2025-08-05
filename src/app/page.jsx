@@ -4,8 +4,7 @@ import "../css/Entradas.css";
 import "../css/input.css";
 import "../css/globals.css"
 
-import { Footer } from "../componentes/Footer";
-import { Login } from "../componentes/Login";
+import { Login } from "../componentes/login";
 import { Games } from "../componentes/Games";
 import { Card } from "../componentes/Card";
 import { Valoracion } from "../componentes/Valoracion";
@@ -15,7 +14,7 @@ export default function landingpage (){
     <div className="maincontainer">
         <div className="iniciosesion">
           <h1> Ser una compañia global de salas de videojuegos </h1>
-          <Login /> o <a href="/Registrarse">Registrate </a>
+          <Login /> o <a href="/auth/register">Registrate </a>
         </div>
 
         <div className="moneda">

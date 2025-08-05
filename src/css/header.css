@@ -1,7 +1,7 @@
 header {
 background-color: black;
   color: rgb(255, 255, 255);
-  padding: 10px;
+  padding: 0px;
   display: flex;
   margin: 0;
   position: fixed;
@@ -11,13 +11,13 @@ background-color: black;
 }
 .searchinput {
   width: 100%;
-  padding: 8px;
+  padding: 9px;
   border: 1px solid hsl(0, 0%, 80%);
   border-radius: 10px;
   font-size: 16px;
   font-family: bold;
   box-sizing: border-box;
-  margin: auto;
+  margin: 10px;
   transition: border-color 0.3s ease;
 }
 
@@ -26,6 +26,8 @@ background-color: black;
   align-items: center;
   justify-content: left;
   width: 100%;
+  margin: 0px;
+  padding: 0px;
 }
 .topbarcenter {
   display: inline-flex;
@@ -38,4 +40,13 @@ background-color: black;
   align-items: center;
   justify-content: right;
   width: 100%;
+}
+.logo{
+  background-image: url("../img/logo3.png");
+  height: 70px;
+  width: 60px;
+  margin: 0px;
+  padding: 0px;
+    background-size: cover; 
+  
 }

@@ -1,0 +1,14 @@
+.container-home{
+display: flex;
+margin: 0px;
+padding: 20px;
+}
+.container-list{
+padding: 50px;
+margin-left: 0px;
+}
+.container-contenido{
+padding: 10px;
+margin: 50px;
+width: 100%;
+}

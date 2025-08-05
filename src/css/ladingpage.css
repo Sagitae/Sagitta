@@ -1,23 +1,26 @@
 .iniciosesion {
   width: 100%;
-  margin: 50px;
+  margin: 0px;
+  padding: 100px;
  align-items: center;
   text-align:  center;
   justify-content: center;
 }
 .moneda {
   width: 100%;
-  margin: 50px;
+  margin: 0px;
   padding-top: 100px;
-  
 }
 .maincontainer {
   width: 100%;
-  height: 500px;
-  background-image: url("../img/cuartogamer2.jpg");
+  height: 550px;
+  background-image: url("../img/pcgamer3.jpg");
   background-position: 0%;
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   align-items: center;
   text-align: center;
   justify-content: center;
+  
 }

@@ -1,19 +1,16 @@
 import "../css/header.css";
 import Link from "next/link";
 
-
-
 export function Header() {
   return (
     <header>
       <div className="topbarright">
-        <img
-          src="../img/logo1.jpg"
-          width={50}
-          height={50}
-          alt="logotipo"
-        />
-        <Link href="/">Sagitta</Link>
+        <Link href="/">
+          <div className="logo"></div>
+        </Link>
+        <Link href="/">
+          <h1>Sagitta</h1>
+        </Link>
 
         <input
           type="text"
